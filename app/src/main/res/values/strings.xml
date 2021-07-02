@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AirlineCheckWIthRxJava</string>
+    <string name="find_flight">Show On Map</string>
+    <string name="get_available_airports">Get Available Airports</string>
+    <string name="origin">Origin Airport</string>
+    <string name="destination">Destination Airport</string>
+    <string name="select_as_origin">Select As Origin Airport</string>
+    <string name="select_as_destination">Select As Destination Airport</string>
+
+    <string name="production_api">https://api.lufthansa.com/</string>
+    <string name="test_api">https://api-test.lufthansa.com/</string>
+    <string name="google_map_api">https://maps.googleapis.com/</string>
+    <string name="google_maps_key">AIzaSyDFp0aOXTAYIOP7f0MBuTeM7X12g8J2BYY</string>
+    <string name="lufthansa_client_id">4hj9ve3fnan4f6qgj2z3bgb8</string>
+    <string name="lufthansa_client_secret">AJea7Gvk86</string>
 </resources>
